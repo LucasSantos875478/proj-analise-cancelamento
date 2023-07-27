@@ -1,0 +1,14 @@
+Exemplo fictício de uma análise de dados de uma empresa
+
+Problemas percebidos
+1- Passou de 50 anos, 100% das pessoas cancelam a assinatura 
+2- Passou de 5 ligações para o callcenter, 100% das pessoas cancelam a assinatura 
+3- Tipo de plano mensal, 100% das pessoas cancelam a assinatura 
+4- Passou de 20 dias de atraso, 100% das pessoas cancelama assinatura 
+5- A pessoa gastou menos de 500 reais, 100% das pessoas cancelama assinatura 
+6- Passou de 14 meses sem usar o cartão o número de clientes cai de 16mil assinantes para 8mil assinantes
+
+Como resolver?
+1- Para resolver os problemas de cancelamento causados pelos itens 5 e 6, que estão ligados ao quanto a pessoa usou o cartão, pode ser feito uma política de incentivo, como por exemplo pontos caso a pessoa use mais o cartão, benefícios se ela usar mais o cartão (como por exemplo menos juros do cartão), para o item 3 pode ser feito a abolição dos planos mensais ou induzir a pessoa a comprar o plano trimestral ou anual, por meio de descontos nesses planos, ou caso a pessoa assine o plano trimestral ou anual ela ganha mais pontos (favorecendo assim já no inicio da assinatura uma política de incentivo para o cliente usar mais o cartão), já para o item 4 podemos manter um contato com o cliente caso ele atrase mais de 5 dias, já ligando para ele e perguntando se ele quer parcelar a fatura 
+fazendo assim o cliente ter menos desistencia por conta do atraso da conta e para o cliente não chegar a atrasar a conta pode ser feito algo para incentivá-lo a pagar essa conta em dia, como por exemplo um desconto caso não pague com atraso ou mais pontos para ele usar. Ou seja, com a política de incentivo e o contato frequente com o cliente podemos reduzir o perentual de pessoas que cancelam esse cartão.
+2- Para o item 1 deve ser feito algo para incentivar as pessoas dessa faixa etária ou o problema pode estar relacionado ao app, então deixá-lo mais intuitivo/pensado para esse grupo pode fazer com que o tanto de pessoas que cancelam diminua e com a melhora do serviço fazemos com que a pessoa ligue menos vezes ao callcenter e não queira cancelar o carão por conta de achar o produto oferecido ruim.
