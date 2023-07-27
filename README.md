@@ -7,5 +7,7 @@ depois de baixado é só você clonar o prjeto e na pasta do projeto executar o 
 "git lfs pull"
 
 esse projeto utiliza o pandas e o plotly.express, caso você não tenha execute esses códigos com o projeto aberto
+
 pip install pandas
+
 pip install plotly-express
